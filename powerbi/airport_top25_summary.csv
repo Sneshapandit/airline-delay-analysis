@@ -1,0 +1,26 @@
+IATA_CODE,AIRPORT,CITY,STATE,TOTAL_FLIGHTS,COMPLETED_FLIGHTS,CANCELLED_FLIGHTS,CANCELLATION_RATE_PCT,AVG_DEP_DELAY_MIN,AVG_ARR_DELAY_MIN,OTP_PCT
+ATL,Hartsfield-Jackson Atlanta International Airport,Atlanta,GA,346836,343506,2557,0.74,9.29,3.05,83.56
+ORD,Chicago O'Hare International Airport,Chicago,IL,285884,276554,8548,2.99,14.03,8.6,75.9
+DFW,Dallas/Fort Worth International Airport,Dallas-Fort Worth,TX,239551,232647,6254,2.61,11.41,6.92,78.3
+DEN,Denver International Airport,Denver,CO,196055,193402,2123,1.08,11.76,7.19,77.6
+LAX,Los Angeles International Airport,Los Angeles,CA,194673,192003,2164,1.11,10.62,5.72,79.02
+SFO,San Francisco International Airport,San Francisco,CA,148008,145491,2148,1.45,11.16,5.75,79.7
+PHX,Phoenix Sky Harbor International Airport,Phoenix,AZ,146815,145552,902,0.61,8.63,4.39,81.16
+IAH,George Bush Intercontinental Airport,Houston,TX,146622,144019,2130,1.45,11.48,7.38,78.69
+LAS,McCarran International Airport,Las Vegas,NV,133181,131937,936,0.7,10.9,6.02,79.37
+MSP,Minneapolis-Saint Paul International Airport,Minneapolis,MN,112117,111055,808,0.72,7.21,1.97,83.64
+MCO,Orlando International Airport,Orlando,FL,110982,109532,1118,1.01,11.98,6.96,79.6
+SEA,Seattle-Tacoma International Airport,Seattle,WA,110899,110178,450,0.41,6.79,2.98,83.16
+DTW,Detroit Metropolitan Airport,Detroit,MI,108500,106992,1270,1.17,9.09,3.59,82.28
+BOS,Gen. Edward Lawrence Logan International Airport,Boston,MA,107847,104804,2654,2.46,9.5,4.29,79.62
+EWR,Newark Liberty International Airport,Newark,NJ,101772,98341,3110,3.06,13.55,4.49,78.48
+CLT,Charlotte Douglas International Airport,Charlotte,NC,100324,99052,1081,1.08,8.38,5.85,79.18
+LGA,LaGuardia Airport (Marine Air Terminal),New York,NY,99605,94834,4531,4.55,13.17,5.63,76.05
+SLC,Salt Lake City International Airport,Salt Lake City,UT,97210,96505,395,0.41,4.75,0.75,86.44
+JFK,John F. Kennedy International Airport (New York International Airport),New York,NY,93811,91663,1922,2.05,12.04,3.61,77.9
+BWI,Baltimore-Washington International Airport,Baltimore,MD,86079,84329,1533,1.78,13.26,7.25,77.41
+MDW,Chicago Midway International Airport,Chicago,IL,80886,78685,1959,2.42,12.77,6.05,78.05
+DCA,Ronald Reagan Washington National Airport,Arlington,VA,73794,71579,2027,2.75,7.94,3.12,81.73
+FLL,Fort Lauderdale-Hollywood International Airport,Ft. Lauderdale,FL,73624,72580,794,1.08,10.62,3.61,81.11
+SAN,San Diego International Airport (Lindbergh Field),San Diego,CA,70207,69270,785,1.12,8.31,3.33,82.29
+MIA,Miami International Airport,Miami,FL,69341,68301,783,1.13,12.41,7.04,76.89
